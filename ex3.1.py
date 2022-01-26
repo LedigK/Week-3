@@ -1,4 +1,4 @@
-#Ex 3.2
+#Ex 3.1
 hr = input("Enter Hours: ")
 r = input("Enter Rate: ")
 fh = float(hr)
